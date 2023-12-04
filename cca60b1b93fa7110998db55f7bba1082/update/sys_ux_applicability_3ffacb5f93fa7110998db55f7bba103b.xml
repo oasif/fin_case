@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_667028_finance_0.Audience for app finance-case-workspace</api_name>
+        <description/>
+        <name>Audience for app finance-case-workspace</name>
+        <role_names/>
+        <roles>9ca60b1b93fa7110998db55f7bba10ce,58a60b1b93fa7110998db55f7bba10d1,4ca60b1b93fa7110998db55f7bba10b0</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-04 18:16:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3ffacb5f93fa7110998db55f7bba103b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app finance-case-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_ux_applicability_3ffacb5f93fa7110998db55f7bba103b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-04 18:16:22</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
