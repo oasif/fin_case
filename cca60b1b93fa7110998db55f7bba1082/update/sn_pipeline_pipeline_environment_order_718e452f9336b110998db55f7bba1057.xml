@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline_environment_order">
+    <sn_pipeline_pipeline_environment_order action="INSERT_OR_UPDATE">
+        <environment display_value="Dev">9daa0de79336b110998db55f7bba105a</environment>
+        <order>10</order>
+        <pipeline display_value="PDI">c03b052b9336b110998db55f7bba1027</pipeline>
+        <sys_class_name>sn_pipeline_pipeline_environment_order</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 03:51:13</sys_created_on>
+        <sys_id>718e452f9336b110998db55f7bba1057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_environment_order_718e452f9336b110998db55f7bba1057</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 03:51:13</sys_updated_on>
+    </sn_pipeline_pipeline_environment_order>
+</record_update>
