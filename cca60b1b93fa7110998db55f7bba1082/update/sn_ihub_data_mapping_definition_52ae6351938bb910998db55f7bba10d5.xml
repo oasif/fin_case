@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FDbabee351c38bb910889a6aecc5857000">3ebee351938bb910998db55f7bba1000</published_source_structure>
+        <record_id>055e6fdd934bb910998db55f7bba10e8</record_id>
+        <source_structure display_value="ih_import_FDbabee351c38bb910889a6aecc5857000">3ebee351938bb910998db55f7bba1000</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 02:00:01</sys_created_on>
+        <sys_id>52ae6351938bb910998db55f7bba10d5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_52ae6351938bb910998db55f7bba10d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 02:00:44</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

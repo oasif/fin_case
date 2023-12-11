@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_assignment_group_sn_ihub_pill_uid_1702260878179</field>
+        <name>Assignment group_sn_ihub_target_description</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 02:15:39</sys_created_on>
+        <sys_id>83327b55938bb910998db55f7bba1004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment group_sn_ihub_target_description</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Finance Case Mapping_etl_ihub">efcee351938bb910998db55f7bba1086</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_667028_finance_0_case">4260b3d1938bb910998db55f7bba100c</sys_rte_eb_entity>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_83327b55938bb910998db55f7bba1004</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 02:15:39</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

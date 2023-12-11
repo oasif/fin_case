@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>f80bcb5f93fa7110998db55f7bba1048</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5eb0965593c3b910998db55f7bba1040</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,153 +18,139 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>fc0bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>56b0965593c3b910998db55f7bba1041</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>f40bcb5f93fa7110998db55f7bba1049</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>700bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5ab0965593c3b910998db55f7bba1041</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>f00bcb5f93fa7110998db55f7bba104a</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5eb0965593c3b910998db55f7bba1041</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>f80bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>52b0965593c3b910998db55f7bba1042</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>f00bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>56b0965593c3b910998db55f7bba1042</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>7c0bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5ab0965593c3b910998db55f7bba1042</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>740bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5eb0965593c3b910998db55f7bba1042</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>700bcb5f93fa7110998db55f7bba104a</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>52b0965593c3b910998db55f7bba1043</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>780bcb5f93fa7110998db55f7bba1049</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>56b0965593c3b910998db55f7bba1043</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>11</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-04 18:16:26</sys_created_on>
-            <sys_id>740bcb5f93fa7110998db55f7bba104a</sys_id>
+            <sys_created_on>2023-12-10 19:09:36</sys_created_on>
+            <sys_id>5ab0965593c3b910998db55f7bba1043</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_667028_finance_0_case" sys_domain="global" view="3efa8b5fa9fa711029acb09381b63d28">340bcb5f93fa7110998db55f7bba1047</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-04 18:16:26</sys_updated_on>
+            <sys_updated_on>2023-12-10 19:09:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
