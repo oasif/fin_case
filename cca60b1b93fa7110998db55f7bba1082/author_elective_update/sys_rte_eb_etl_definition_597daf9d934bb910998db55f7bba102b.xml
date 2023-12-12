@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_definition">
+    <sys_rte_eb_etl_definition action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <description>ETL definition for Finance case import</description>
+        <name>Finance case import_etl_ihub</name>
+        <on_after_script><![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]></on_after_script>
+        <on_after_script_bool>false</on_after_script_bool>
+        <on_before_script><![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]></on_before_script>
+        <on_before_script_bool>false</on_before_script_bool>
+        <sys_class_name>sys_rte_eb_etl_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:54:47</sys_created_on>
+        <sys_id>597daf9d934bb910998db55f7bba102b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance case import_etl_ihub</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_definition_597daf9d934bb910998db55f7bba102b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:54:47</sys_updated_on>
+    </sys_rte_eb_etl_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</application>
+        <file_path/>
+        <instance_id>076e8c68dbca7d94199b17291396190e</instance_id>
+        <instance_name>dev190338</instance_name>
+        <name>sys_rte_eb_etl_definition_597daf9d934bb910998db55f7bba102b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_rte_eb_etl_definition"&gt;&lt;sys_rte_eb_etl_definition action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;description&gt;ETL definition for Finance case import&lt;/description&gt;&lt;name&gt;Finance case import_etl_ihub&lt;/name&gt;&lt;on_after_script&gt;&lt;![CDATA[(function onAfter(source, target, importLog) {
+
+	// Add your on after code here
+
+})(source, target, importLog);]]&gt;&lt;/on_after_script&gt;&lt;on_after_script_bool&gt;false&lt;/on_after_script_bool&gt;&lt;on_before_script&gt;&lt;![CDATA[(function onBefore(source, target, importLog) {
+
+	// Add your on before code here
+
+})(source, target, importLog);]]&gt;&lt;/on_before_script&gt;&lt;on_before_script_bool&gt;false&lt;/on_before_script_bool&gt;&lt;sys_class_name&gt;sys_rte_eb_etl_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-11 01:54:47&lt;/sys_created_on&gt;&lt;sys_id&gt;597daf9d934bb910998db55f7bba102b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Finance case import_etl_ihub&lt;/sys_name&gt;&lt;sys_package display_value="Finance Case Management" source="x_667028_finance_0"&gt;cca60b1b93fa7110998db55f7bba1082&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Finance Case Management"&gt;cca60b1b93fa7110998db55f7bba1082&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_rte_eb_etl_definition_597daf9d934bb910998db55f7bba102b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-11 01:54:47&lt;/sys_updated_on&gt;&lt;/sys_rte_eb_etl_definition&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-704064605</payload_hash>
+        <record_name>Finance case import_etl_ihub</record_name>
+        <reverted_from/>
+        <source>ad1dc313933e7110998db55f7bba10eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:54:47</sys_created_on>
+        <sys_id>d57daf9d934bb910998db55f7bba102e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c56957ed00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:54:47</sys_updated_on>
+        <type>ETL Definition</type>
+        <update_guid>1d7daf9d9a4bb91009b096d3b1ac1e2d</update_guid>
+        <update_guid_history>1d7daf9d9a4bb91009b096d3b1ac1e2d:-704064605</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 01:57:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_definition">sys_rte_eb_etl_definition</sys_db_object>
+        <sys_id>2ac210ff2f7744fa90751a8da1777159</sys_id>
+        <sys_metadata>597daf9d934bb910998db55f7bba102b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance case import_etl_ihub</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_scope_delete display_value="">3bac7af94b4040eea2416958f6036be4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_definition_597daf9d934bb910998db55f7bba102b</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_definition_597daf9d934bb910998db55f7bba102b">d57daf9d934bb910998db55f7bba102e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:57:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

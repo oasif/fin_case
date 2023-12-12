@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>SET_VAL_3_sn_ihub_pill_uid_1064832108957</field>
+        <name>SET_VAL_sn_ihub_target_description</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 03:06:35</sys_created_on>
+        <sys_id>8377c5b593833d10998db55f7bba10ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_VAL_sn_ihub_target_description</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Finance Case Mapping_etl_ihub">efcee351938bb910998db55f7bba1086</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_667028_finance_0_case">4260b3d1938bb910998db55f7bba100c</sys_rte_eb_entity>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_8377c5b593833d10998db55f7bba10ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 03:06:35</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</application>
+        <file_path/>
+        <instance_id>076e8c68dbca7d94199b17291396190e</instance_id>
+        <instance_name>dev190338</instance_name>
+        <name>sys_rte_eb_etl_field_8377c5b593833d10998db55f7bba10ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>SET_VAL_3_sn_ihub_pill_uid_1064832108957</field><name>SET_VAL_sn_ihub_target_description</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 03:06:35</sys_created_on><sys_id>8377c5b593833d10998db55f7bba10ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SET_VAL_sn_ihub_target_description</sys_name><sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package><sys_policy/><sys_rte_eb_definition display_value="Finance Case Mapping_etl_ihub">efcee351938bb910998db55f7bba1086</sys_rte_eb_definition><sys_rte_eb_entity display_value="IHUB_TARGET_TEMP_x_667028_finance_0_case">4260b3d1938bb910998db55f7bba100c</sys_rte_eb_entity><sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope><sys_update_name>sys_rte_eb_etl_field_8377c5b593833d10998db55f7bba10ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 03:06:35</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>-1249670025</payload_hash>
+        <record_name>SET_VAL_sn_ihub_target_description</record_name>
+        <reverted_from/>
+        <source>ad1dc313933e7110998db55f7bba10eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 03:06:35</sys_created_on>
+        <sys_id>c777c5b593833d10998db55f7bba10ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5bfd99e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 03:06:35</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>0f77c5b51e833d100f51350c7c261fac</update_guid>
+        <update_guid_history>0f77c5b51e833d100f51350c7c261fac:-1249670025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 03:08:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>0b8d7d2bc90c4bb783e15f4af3a077b9</sys_id>
+        <sys_metadata>8377c5b593833d10998db55f7bba10ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SET_VAL_sn_ihub_target_description</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_scope_delete display_value="">3bac7af94b4040eea2416958f6036be4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_8377c5b593833d10998db55f7bba10ac</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_8377c5b593833d10998db55f7bba10ac">c777c5b593833d10998db55f7bba10ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 03:08:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
