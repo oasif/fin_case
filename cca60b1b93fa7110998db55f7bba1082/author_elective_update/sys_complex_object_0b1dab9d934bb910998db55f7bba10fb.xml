@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cca60b1b93fa7110998db55f7bba1082</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD471dab9dbf4bb910e7425fa16c2705fb":{"u_assigned_to":"String","u_assigned_to.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assigned to\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_priority":"String","u_priority.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Priority\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_subject":"String","u_subject.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Subject\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_id":"String","u_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ID\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_from":"String","u_from.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"From\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_state":"String","u_state.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"State\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_updated_by":"String","u_updated_by.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Updated by\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_assignment_group":"String","u_assignment_group.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assignment group\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_updated":"Date","u_updated.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Updated\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_folder":"String","u_folder.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Folder\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_opened":"Date","u_opened.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Opened\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD471dab9dbf4bb910e7425fa16c2705fb.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD471dab9dbf4bb910e7425fa16c2705fb\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:53:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b1dab9d934bb910998db55f7bba10fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_complex_object_0b1dab9d934bb910998db55f7bba10fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:53:15</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</application>
+        <file_path/>
+        <instance_id>076e8c68dbca7d94199b17291396190e</instance_id>
+        <instance_name>dev190338</instance_name>
+        <name>sys_complex_object_0b1dab9d934bb910998db55f7bba10fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</name><namespace>FlowDesigner</namespace><scope_name>cca60b1b93fa7110998db55f7bba1082</scope_name><serialized_content>{"FlowDesigner:ih_import_FD471dab9dbf4bb910e7425fa16c2705fb":{"u_assigned_to":"String","u_assigned_to.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assigned to\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_priority":"String","u_priority.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Priority\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_subject":"String","u_subject.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Subject\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_id":"String","u_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ID\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_from":"String","u_from.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"From\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_state":"String","u_state.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"State\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_updated_by":"String","u_updated_by.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Updated by\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_assignment_group":"String","u_assignment_group.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assignment group\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_updated":"Date","u_updated.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Updated\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_folder":"String","u_folder.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Folder\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_opened":"Date","u_opened.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"glide_date_time\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"glide_date_time\",\"default_value\":\"\",\"label\":\"Opened\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD471dab9dbf4bb910e7425fa16c2705fb.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD471dab9dbf4bb910e7425fa16c2705fb\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 01:53:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0b1dab9d934bb910998db55f7bba10fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</sys_name><sys_overrides/><sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package><sys_policy/><sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope><sys_update_name>sys_complex_object_0b1dab9d934bb910998db55f7bba10fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 01:53:15</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>-1485521520</payload_hash>
+        <record_name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</record_name>
+        <reverted_from/>
+        <source>ad1dc313933e7110998db55f7bba10eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:53:15</sys_created_on>
+        <sys_id>071deb9d934bb910998db55f7bba1093</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c56941a770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:53:15</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>471dab9d414bb9101b7871c53bdb86fd</update_guid>
+        <update_guid_history>471dab9d414bb9101b7871c53bdb86fd:-1485521520</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:53:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>05699fa62741402abca5dcc980be9039</sys_id>
+        <sys_metadata>0b1dab9d934bb910998db55f7bba10fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD471dab9dbf4bb910e7425fa16c2705fb</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_scope_delete display_value="">3bac7af94b4040eea2416958f6036be4</sys_scope_delete>
+        <sys_update_name>sys_complex_object_0b1dab9d934bb910998db55f7bba10fb</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_0b1dab9d934bb910998db55f7bba10fb">071deb9d934bb910998db55f7bba1093</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:53:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

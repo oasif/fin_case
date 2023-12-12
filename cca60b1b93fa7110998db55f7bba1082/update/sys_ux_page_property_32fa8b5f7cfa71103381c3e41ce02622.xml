@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Finance Case Workspace generated</description>
+        <name>view</name>
+        <page display_value="Finance Case Workspace">3afa8b5f95fa7110d1cc41d043aa9a32</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-04 18:16:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>32fa8b5f7cfa71103381c3e41ce02622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_ux_page_property_32fa8b5f7cfa71103381c3e41ce02622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-04 18:16:19</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_667028_finance_0.3afa8b5f95fa7110d1cc41d043aa9a32.root.view</unique_name>
+        <value>workspace-finance-case-workspace-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=32fa8b5f7cfa71103381c3e41ce02622"/>
+</record_update>

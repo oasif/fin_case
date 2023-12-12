@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Finance Case Workspace">7afa8b5f5dfa71100bd732017b11752b</dashboard>
+        <experience display_value="Finance Case Workspace">3afa8b5f95fa7110d1cc41d043aa9a32</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-04 18:16:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bafa8b5f7efa7110271d12a35dc4b32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>par_dashboard_visibility_bafa8b5f7efa7110271d12a35dc4b32a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-04 18:16:18</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

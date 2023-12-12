@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>Map cases from a given spreadsheet</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>Finance Case Mapping</name>
+        <record_id>055e6fdd934bb910998db55f7bba10e8</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:58:35</sys_created_on>
+        <sys_id>855e6fdd934bb910998db55f7bba10e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Finance Case Mapping</sys_name>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_855e6fdd934bb910998db55f7bba10e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:58:35</sys_updated_on>
+    </sn_ihub_integration_instance>
+</record_update>

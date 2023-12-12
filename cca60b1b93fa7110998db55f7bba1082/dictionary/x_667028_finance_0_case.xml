@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="c02947db93fa7110998db55f7bba1013" extends="task" label="Case" max_length="40" name="x_667028_finance_0_case" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Folder" max_length="40" name="folder" type="string"/>
+    </element>
+</database>

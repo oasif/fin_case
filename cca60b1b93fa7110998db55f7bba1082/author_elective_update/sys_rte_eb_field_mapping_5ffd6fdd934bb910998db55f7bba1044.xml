@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 01:57:05</sys_created_on>
+        <sys_id>5ffd6fdd934bb910998db55f7bba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">597daf9d934bb910998db55f7bba102b</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">5ffd6fdd934bb910998db55f7bba103e</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_5ffd6fdd934bb910998db55f7bba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:57:05</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</application>
+        <file_path/>
+        <instance_id>076e8c68dbca7d94199b17291396190e</instance_id>
+        <instance_name>dev190338</instance_name>
+        <name>sys_rte_eb_field_mapping_5ffd6fdd934bb910998db55f7bba1044</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 01:57:05</sys_created_on><sys_id>5ffd6fdd934bb910998db55f7bba1044</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package><sys_policy/><sys_rte_eb_definition display_value="">597daf9d934bb910998db55f7bba102b</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">5ffd6fdd934bb910998db55f7bba103e</sys_rte_eb_entity_mapping><sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope><sys_update_name>sys_rte_eb_field_mapping_5ffd6fdd934bb910998db55f7bba1044</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 01:57:05</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>551782120</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>387e48e8d9b13110cedf7dffddb48f09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 01:57:49</sys_created_on>
+        <sys_id>7d2e6711938bb910998db55f7bba1050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c569847580000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:57:49</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>792e6711e18bb910f5ac68be5cf50750</update_guid>
+        <update_guid_history>792e6711e18bb910f5ac68be5cf50750:0,1d2ea311208bb910915120be9ead7167:0,dbfd6fdd794bb910a0c21edb3509c845:-560967230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 01:57:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>0b2bd55c85af439e81e321a7132cba89</sys_id>
+        <sys_metadata>5ffd6fdd934bb910998db55f7bba1044</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Finance Case Management" source="x_667028_finance_0">cca60b1b93fa7110998db55f7bba1082</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Finance Case Management">cca60b1b93fa7110998db55f7bba1082</sys_scope>
+        <sys_scope_delete display_value="">3bac7af94b4040eea2416958f6036be4</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_5ffd6fdd934bb910998db55f7bba1044</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_5ffd6fdd934bb910998db55f7bba1044">7d2e6711938bb910998db55f7bba1050</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 01:57:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
